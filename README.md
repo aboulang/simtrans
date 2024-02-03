@@ -1,5 +1,5 @@
 # simtrans
-Simula to Zeta Lisp Translator
+Simula to Zeta Lisp Translator.
 Done as part of the DesigNet effort. 
 The magic is using the very intuitive CGOL (Pratt) Parser. 
 See https://en.wikipedia.org/wiki/Pratt_parser 
